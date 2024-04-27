@@ -5,5 +5,3 @@ thursday
 friday
 saturday
 sunday
-01
-02
